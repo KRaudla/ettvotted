@@ -1,11 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Nov 11 18:01:57 2015
 
-@author: Risto
-"""
-#import os
-#os.chdir(r"C:\Users\Risto\Documents\GitHub\GeoJson--riregistri-andmetest")
 
 import pandas
 from geopy.geocoders import Nominatim
